@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patrickvroomen
-- 👀 I’m interested in Phyton code, applications, API's, etc
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on project so that I can learn Phyton like a professional
+- 👀 I’m interested in Python code, applications, API's, etc
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on project so that I can learn Python like a professional
 - 📫 How to reach me, Just send a message via Github
 
 <!---
